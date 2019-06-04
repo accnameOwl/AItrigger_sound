@@ -1,22 +1,25 @@
-# AItrigger_sound
+/*
 
 	@Author: Tafe
 	Language: .DM (Dream Maker)
 	Latest Update: v1
 	Date: 6. June 2019
 
-	Hub: https://www.byond.com/members/tafe
-	Github: https://github.com/accnameOwl/AItrigger_sound
+	Hub:
+	Github
 
 
 	This is a non-flexible library for making sound, to trigger ai.
 	There is NO ACTUAL sound, and you might wonder why.
-	byond does not support sound distance to trigger ai, so we are 
+	byond does not support sound distance to trigger ai, so we are
 	visualizing the concept of sound to trigger AI.
 
+*/
 
+
+/*
 ## Object tree & Functions
-	
+
 	_Sound
 
 		New(mob/_player)
@@ -32,14 +35,18 @@
 
 		_Sound/_sound
 		current_volume
+*/
+
+/*
 
 ## NAMING CONVENTION
 
 	Types & Functions:
 		/Monster & /AITrigger
 		Function() & AnotherFunction()
-	
+
 	Variables:
 		variable_naming = ""
-	
 
+
+*/
