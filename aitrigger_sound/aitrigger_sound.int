@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1559691967
+LAST_COMPILE_TIME: 1559693543
 DIR: example mob sound 
 PACKAGE_RSC_NAME: C:\Users\dev\Documents\dm\Libraries\AItrigger_sound\aitrigger_sound\aitrigger_sound_rsc.zip
 AUTO_FILE_DIR: ON
@@ -13,7 +13,7 @@ PACKAGE_TYPE: 1
 PACKAGE_DME_START: 
 WINDOW: info.dm;sound\_sound.dm;mob\makesound.dm;example\code.dm;example\map.dmm
 PACKAGE_DME_INFO: 
-FILE: info.dm
+FILE: example\code.dm
 PACKAGE_DMB_NAME: C:\Users\dev\Documents\dm\Libraries\AItrigger_sound\aitrigger_sound\aitrigger_sound.zip
 PACKAGE_DME_DEMO: 
 */
