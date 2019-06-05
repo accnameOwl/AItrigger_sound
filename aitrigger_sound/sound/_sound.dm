@@ -1,7 +1,5 @@
 _Sound
 
-	parent_type = /atom/movable
-
 	var
 		/*
 		*	player, is recieved from this.New()

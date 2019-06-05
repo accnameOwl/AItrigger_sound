@@ -1,20 +1,20 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1559693543
-DIR: example mob sound 
+LAST_COMPILE_TIME: 1559694453
 PACKAGE_RSC_NAME: C:\Users\dev\Documents\dm\Libraries\AItrigger_sound\aitrigger_sound\aitrigger_sound_rsc.zip
+DIR: example mob sound 
 AUTO_FILE_DIR: ON
 PACKAGE_DMB_INFO: 
 MAP_ICON_TYPE: 0
 PACKAGE_DME_NAME: C:\Users\dev\Documents\dm\Libraries\AItrigger_sound\aitrigger_sound\aitrigger_sound_src.zip
 LAST_COMPILE_VERSION: 512.1470
-PACKAGE_TYPE: 1
 PACKAGE_DME_START: 
-WINDOW: info.dm;sound\_sound.dm;mob\makesound.dm;example\code.dm;example\map.dmm
+PACKAGE_TYPE: 1
 PACKAGE_DME_INFO: 
-FILE: example\code.dm
-PACKAGE_DMB_NAME: C:\Users\dev\Documents\dm\Libraries\AItrigger_sound\aitrigger_sound\aitrigger_sound.zip
+WINDOW: info.dm;sound\_sound.dm;mob\makesound.dm;example\code.dm;example\map.dmm
+FILE: sound\_sound.dm
 PACKAGE_DME_DEMO: 
+PACKAGE_DMB_NAME: C:\Users\dev\Documents\dm\Libraries\AItrigger_sound\aitrigger_sound\aitrigger_sound.zip
 */
 // END_INTERNALS
